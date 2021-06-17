@@ -3,11 +3,12 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=setyodwi&hide=blade,html&theme=tokyonight" />
 -->
 
-### Hello, Gaiss! Aku Setyo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello, Gaiss! Aku Setyo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## Anak STIS 59 asli Purbalingga,
+<br />
+Anak STIS 59 asli Purbalingga
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="setyodwi | WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][wa]
 [<img align="left" alt="setyodwi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -17,7 +18,7 @@
 
 <br />
 
-###
+### 📕 Statistik
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=setyodwi&theme=tokyonight&show_icons=true&line_height=27)](https://github.com/setyodwi/setyodwi)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=setyodwi&hide=blade,html&theme=tokyonight)](https://github.com/setyodwi/setyodwi)
