@@ -21,7 +21,9 @@ Anak STIS 59 asli Purbalingga
 ### 📕 Statistik
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=setyodwi&theme=tokyonight&show_icons=true&line_height=27)](https://github.com/setyodwi/setyodwi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=setyodwi&hide=blade,html&theme=tokyonight&line_height=27)](https://github.com/setyodwi/setyodwi)
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=setyodwi&hide=blade,html&theme=tokyonight)](https://github.com/setyodwi/setyodwi)
 
 [twitter]: https://twitter.com/settyoo_ds
 [wa]: https://wa.me/089670481840
