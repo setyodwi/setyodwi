@@ -10,11 +10,13 @@ Anak STIS 59 asli Purbalingga
 
 ## Connect with me:
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/settyoo_ds?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsettyoo_ds&screen_name=settyoo_ds)
+
+<br />
+
 [<img align="left" alt="setyodwi | WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][wa]
 [<img align="left" alt="setyodwi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="setyodwi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/settyoo_ds?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsettyoo_ds&screen_name=settyoo_ds)
 
 <br />
 
