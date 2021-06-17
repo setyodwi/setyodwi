@@ -5,9 +5,18 @@
 
 ### Hello, Gaiss! Aku Setyo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### Anak STIS 59 asli Purbalingga,
+## Anak STIS 59 asli Purbalingga,
+
+### Connect with me:
+
+[<img align="left" alt="setyodwi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="setyodwi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="setyodwi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="setyodwi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/settyoo_ds?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsettyoo_ds&screen_name=settyoo_ds)
+
+<br />
 
 ###
 
