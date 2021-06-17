@@ -9,9 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="setyodwi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="setyodwi | WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][wa]
 [<img align="left" alt="setyodwi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="setyodwi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="setyodwi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/settyoo_ds?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsettyoo_ds&screen_name=settyoo_ds)
@@ -22,3 +21,7 @@
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=setyodwi&theme=tokyonight&show_icons=true&line_height=27)](https://github.com/setyodwi/setyodwi)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=setyodwi&hide=blade,html&theme=tokyonight)](https://github.com/setyodwi/setyodwi)
+
+[twitter]: https://twitter.com/settyoo_ds
+[wa]: https://wa.me/089670481840
+[instagram]: https://instagram.com/setyo.si
