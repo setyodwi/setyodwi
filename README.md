@@ -3,9 +3,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=setyodwi&hide=blade,html&theme=tokyonight" />
 -->
 
-# Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello, there! Aku Setyo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a software engineer based in Surabaya, Indonesia.
+Anak STIS 59 asli Purbalingga, [![Twitter Follow](https://img.shields.io/twitter/follow/settyoo_ds?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsettyoo_ds&screen_name=settyoo_ds)
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=setyodwi&theme=tokyonight&show_icons=true&line_height=27)](https://github.com/setyodwi/setyodwi)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=setyodwi&hide=blade,html&theme=tokyonight)](https://github.com/setyodwi/setyodwi)
